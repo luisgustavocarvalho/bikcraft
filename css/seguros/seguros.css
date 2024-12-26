@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+#seguros .seguros {
+  padding-top: 0;
+}
+
 .seguros h2 {
   grid-column: 1/-1;
 }
