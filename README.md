@@ -15,27 +15,27 @@ O site é composto por 6 páginas principais, cada uma desempenhando uma funçã
 
 1. **Home (index.html)** - Apresentação da marca, chamada para a compra das bicicletas e destaque dos principais modelos.
 
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Home.jpeg">
 
 2. **Bicicletas (bicicletas.html)** - Lista de modelos disponíveis com descrições detalhadas, imagens e especificações técnicas.
 
-  <img src="">
+  <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Bicicletas.jpeg">
 
 3. **Orçamento (orcamento.html)** - Formulário para os usuários solicitarem um orçamento de acordo com o modelo desejado.
 
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Orcamento.jpeg">
 
 4. **Seguros (seguros.html)** - Informações sobre planos de seguros para bicicletas, com opções de cobertura e valores.
 
-  <img src="">
+  <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Seguros.jpeg">
 
 5. **Contato (contato.html)** - Formulário de contato para que os clientes possam enviar mensagens, além das informações da empresa.
 
-  <img src="">
+  <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Contato.jpeg">
 
 6. **Termos (termos.html)** - Termos e condições de uso do site e serviços oferecidos.
 
-   <img src="">
+   <img src="https://raw.githubusercontent.com/luisgustavocarvalho/bikcraft/refs/heads/main/img/Termos.jpeg">
 
 ## 💻 Como Rodar o Projeto
 
